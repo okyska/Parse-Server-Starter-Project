@@ -4,23 +4,6 @@
             "outputFile": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\abc8d5637d0b5a32638df1b9a383e952\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,124,194,268,344,403,474,542",
-                        "endColumns": "68,69,73,75,58,70,67,54",
-                        "endOffsets": "119,189,263,339,398,469,537,592"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,10",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,124,194,268,344,403,474,615",
-                        "endColumns": "68,69,73,75,58,70,67,54",
-                        "endOffsets": "119,189,263,339,398,469,537,665"
-                    }
-                },
-                {
                     "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-23.0.0.aar\\0668ddc9c5ce8a031fcdf4eca0e24bbf\\res\\values-sw600dp\\values-sw600dp.xml",
                     "from": {
                         "startLines": "4",
@@ -30,11 +13,21 @@
                         "endOffsets": "350"
                     },
                     "to": {
-                        "startLines": "9",
+                        "startLines": "10",
                         "startColumns": "4",
-                        "startOffsets": "542",
+                        "startOffsets": "611",
                         "endColumns": "72",
-                        "endOffsets": "610"
+                        "endOffsets": "679"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\fed3a30f2745d25786849f319f79a450\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
                     }
                 }
             ]
