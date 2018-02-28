@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\distrib_oxana\parseproject\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:10:1-37:12
-INJECTED from C:\distrib_oxana\parseproject\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:10:1-37:12
-INJECTED from C:\distrib_oxana\parseproject\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:10:1-37:12
-INJECTED from C:\distrib_oxana\parseproject\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:10:1-37:12
+ADDED from C:\distrib_oxana\parseproject\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:10:1-39:12
+INJECTED from C:\distrib_oxana\parseproject\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:10:1-39:12
+INJECTED from C:\distrib_oxana\parseproject\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:10:1-39:12
+INJECTED from C:\distrib_oxana\parseproject\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:10:1-39:12
 MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\max\.gradle\caches\transforms-1\files-1.1\play-services-9.4.0.aar\1c5b69191afc92176ef7a6e0e4c9279c\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\max\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.4.0.aar\f824474c376d6f7cec738c61b3cac161\AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.android.gms:play-services-cast:9.4.0] C:\Users\max\.gradle\caches\transforms-1\files-1.1\play-services-cast-9.4.0.aar\52b4aaea2a0af178384fb113f12587c0\AndroidManifest.xml:16:1-20:12
@@ -65,20 +65,20 @@ MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\max\.
 MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\max\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\f4a1129becfdb4066b7dd7149f570d89\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\max\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\e6b152b11e017ad5311ec0743801eeb0\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-compat:26.0.0] C:\Users\max\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\236183c29556cb6d251dc455f8a22582\AndroidManifest.xml:17:1-31:12
-INJECTED from C:\distrib_oxana\parseproject\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:10:1-37:12
-INJECTED from C:\distrib_oxana\parseproject\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:10:1-37:12
-INJECTED from C:\distrib_oxana\parseproject\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:10:1-37:12
+INJECTED from C:\distrib_oxana\parseproject\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:10:1-39:12
+INJECTED from C:\distrib_oxana\parseproject\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:10:1-39:12
+INJECTED from C:\distrib_oxana\parseproject\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:10:1-39:12
 	package
 		ADDED from C:\distrib_oxana\parseproject\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:11:11-38
 		INJECTED from C:\distrib_oxana\parseproject\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
 		INJECTED from C:\distrib_oxana\parseproject\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\distrib_oxana\parseproject\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
-		ADDED from C:\distrib_oxana\parseproject\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:10:1-37:12
+		ADDED from C:\distrib_oxana\parseproject\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:10:1-39:12
 		INJECTED from C:\distrib_oxana\parseproject\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\distrib_oxana\parseproject\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
-		ADDED from C:\distrib_oxana\parseproject\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:10:1-37:12
+		ADDED from C:\distrib_oxana\parseproject\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:10:1-39:12
 		INJECTED from C:\distrib_oxana\parseproject\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\distrib_oxana\parseproject\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:10:11-69
@@ -141,7 +141,7 @@ ADDED from C:\distrib_oxana\parseproject\Parse-Server-Starter-Project\ParseStart
 	android:name
 		ADDED from C:\distrib_oxana\parseproject\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:16:22-76
 application
-ADDED from C:\distrib_oxana\parseproject\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:18:5-35:19
+ADDED from C:\distrib_oxana\parseproject\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:18:5-37:19
 MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\max\.gradle\caches\transforms-1\files-1.1\play-services-9.4.0.aar\1c5b69191afc92176ef7a6e0e4c9279c\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\max\.gradle\caches\transforms-1\files-1.1\play-services-9.4.0.aar\1c5b69191afc92176ef7a6e0e4c9279c\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\max\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.4.0.aar\f824474c376d6f7cec738c61b3cac161\AndroidManifest.xml:5:5-9:19
@@ -274,6 +274,10 @@ activity#com.parse.starter.UserListActivity
 ADDED from C:\distrib_oxana\parseproject\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:33:9-34:20
 	android:name
 		ADDED from C:\distrib_oxana\parseproject\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:33:19-51
+activity#com.parse.starter.UserFeedActivity
+ADDED from C:\distrib_oxana\parseproject\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:35:9-36:20
+	android:name
+		ADDED from C:\distrib_oxana\parseproject\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:35:19-51
 uses-sdk
 INJECTED from C:\distrib_oxana\parseproject\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\distrib_oxana\parseproject\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
