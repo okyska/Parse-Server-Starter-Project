@@ -60,12 +60,12 @@
         "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-23.0.0.aar\\0668ddc9c5ce8a031fcdf4eca0e24bbf\\res\\drawable\\mr_ic_cast_light.xml"
     },
     {
-        "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ic_plusone_tall_off_client.png.flat",
-        "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-plus-9.4.0.aar\\f6126c9d57e255425f101293276fb56b\\res\\drawable-xhdpi-v4\\ic_plusone_tall_off_client.png"
-    },
-    {
         "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\fed3a30f2745d25786849f319f79a450\\res\\drawable-xxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ic_plusone_tall_off_client.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-plus-9.4.0.aar\\f6126c9d57e255425f101293276fb56b\\res\\drawable-xhdpi-v4\\ic_plusone_tall_off_client.png"
     },
     {
         "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_dark_focused.9.png.flat",
@@ -76,12 +76,12 @@
         "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\f824474c376d6f7cec738c61b3cac161\\res\\drawable-mdpi-v4\\quantum_ic_volume_off_grey600_36.png"
     },
     {
-        "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_quantum_ic_keyboard_arrow_down_white_36.png.flat",
-        "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\f824474c376d6f7cec738c61b3cac161\\res\\drawable-hdpi-v4\\quantum_ic_keyboard_arrow_down_white_36.png"
-    },
-    {
         "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_tooltip_exit.xml.flat",
         "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\fed3a30f2745d25786849f319f79a450\\res\\anim\\tooltip_exit.xml"
+    },
+    {
+        "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_quantum_ic_keyboard_arrow_down_white_36.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\f824474c376d6f7cec738c61b3cac161\\res\\drawable-hdpi-v4\\quantum_ic_keyboard_arrow_down_white_36.png"
     },
     {
         "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_abc_ic_star_black_36dp.png.flat",
@@ -100,16 +100,16 @@
         "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\f824474c376d6f7cec738c61b3cac161\\res\\drawable\\cast_ic_expanded_controller_play.xml"
     },
     {
-        "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_quantum_ic_play_arrow_grey600_36.png.flat",
-        "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\f824474c376d6f7cec738c61b3cac161\\res\\drawable-xxhdpi-v4\\quantum_ic_play_arrow_grey600_36.png"
+        "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\fed3a30f2745d25786849f319f79a450\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png"
     },
     {
         "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_quantum_ic_skip_previous_white_36.png.flat",
         "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\f824474c376d6f7cec738c61b3cac161\\res\\drawable-hdpi-v4\\quantum_ic_skip_previous_white_36.png"
     },
     {
-        "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
-        "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\fed3a30f2745d25786849f319f79a450\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png"
+        "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_quantum_ic_play_arrow_grey600_36.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\f824474c376d6f7cec738c61b3cac161\\res\\drawable-xxhdpi-v4\\quantum_ic_play_arrow_grey600_36.png"
     },
     {
         "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_quantum_ic_volume_mute_white_36.png.flat",
@@ -180,12 +180,12 @@
         "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-9.4.0.aar\\7f066f31f0c7d3a5e9628f5b7e086ac9\\res\\drawable-hdpi-v4\\places_ic_search.png"
     },
     {
-        "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_ic_plusone_medium_off_client.png.flat",
-        "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-plus-9.4.0.aar\\f6126c9d57e255425f101293276fb56b\\res\\drawable-mdpi-v4\\ic_plusone_medium_off_client.png"
-    },
-    {
         "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
         "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\abc8d5637d0b5a32638df1b9a383e952\\res\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_ic_plusone_medium_off_client.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-plus-9.4.0.aar\\f6126c9d57e255425f101293276fb56b\\res\\drawable-mdpi-v4\\ic_plusone_medium_off_client.png"
     },
     {
         "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
@@ -212,12 +212,12 @@
         "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\fed3a30f2745d25786849f319f79a450\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
-        "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\color_switch_thumb_material_dark.xml.flat",
-        "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\fed3a30f2745d25786849f319f79a450\\res\\color\\switch_thumb_material_dark.xml"
-    },
-    {
         "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21_abc_btn_colored_material.xml.flat",
         "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\fed3a30f2745d25786849f319f79a450\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\color_switch_thumb_material_dark.xml.flat",
+        "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\fed3a30f2745d25786849f319f79a450\\res\\color\\switch_thumb_material_dark.xml"
     },
     {
         "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_dark_disabled.9.png.flat",
@@ -292,20 +292,20 @@
         "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\b33dcbfc758357e22d4376474a339c26\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png"
     },
     {
-        "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_quantum_ic_play_circle_filled_grey600_36.png.flat",
-        "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\f824474c376d6f7cec738c61b3cac161\\res\\drawable-xxhdpi-v4\\quantum_ic_play_circle_filled_grey600_36.png"
-    },
-    {
         "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_abc_ic_go_search_api_mtrl_alpha.png.flat",
         "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\abc8d5637d0b5a32638df1b9a383e952\\res\\drawable-xhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_abc_item_background_holo_light.xml.flat",
-        "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\fed3a30f2745d25786849f319f79a450\\res\\drawable\\abc_item_background_holo_light.xml"
+        "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_quantum_ic_play_circle_filled_grey600_36.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\f824474c376d6f7cec738c61b3cac161\\res\\drawable-xxhdpi-v4\\quantum_ic_play_circle_filled_grey600_36.png"
     },
     {
         "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_places_ic_clear.png.flat",
         "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-9.4.0.aar\\7f066f31f0c7d3a5e9628f5b7e086ac9\\res\\drawable-mdpi-v4\\places_ic_clear.png"
+    },
+    {
+        "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_abc_item_background_holo_light.xml.flat",
+        "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\fed3a30f2745d25786849f319f79a450\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
         "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_cast_ic_notification_stop_live_stream.xml.flat",
@@ -360,20 +360,20 @@
         "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\fed3a30f2745d25786849f319f79a450\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
-        "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi_ic_media_pause.png.flat",
-        "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-23.0.0.aar\\0668ddc9c5ce8a031fcdf4eca0e24bbf\\res\\drawable-mdpi\\ic_media_pause.png"
-    },
-    {
         "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
         "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\fed3a30f2745d25786849f319f79a450\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
     },
     {
-        "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_common_plus_signin_btn_text_light.xml.flat",
-        "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\b33dcbfc758357e22d4376474a339c26\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+        "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi_ic_media_pause.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-23.0.0.aar\\0668ddc9c5ce8a031fcdf4eca0e24bbf\\res\\drawable-mdpi\\ic_media_pause.png"
     },
     {
         "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_abc_ic_star_black_36dp.png.flat",
         "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\fed3a30f2745d25786849f319f79a450\\res\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_common_plus_signin_btn_text_light.xml.flat",
+        "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\b33dcbfc758357e22d4376474a339c26\\res\\drawable\\common_plus_signin_btn_text_light.xml"
     },
     {
         "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_common_plus_signin_btn_text_dark_focused.9.png.flat",
@@ -436,12 +436,12 @@
         "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\b33dcbfc758357e22d4376474a339c26\\res\\drawable-mdpi-v4\\common_plus_signin_btn_text_light_pressed.9.png"
     },
     {
-        "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_ic_plusone_small_off_client.png.flat",
-        "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-plus-9.4.0.aar\\f6126c9d57e255425f101293276fb56b\\res\\drawable-mdpi-v4\\ic_plusone_small_off_client.png"
-    },
-    {
         "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_place_autocomplete_fragment.xml.flat",
         "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-9.4.0.aar\\7f066f31f0c7d3a5e9628f5b7e086ac9\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_ic_plusone_small_off_client.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-plus-9.4.0.aar\\f6126c9d57e255425f101293276fb56b\\res\\drawable-mdpi-v4\\ic_plusone_small_off_client.png"
     },
     {
         "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi_ic_media_route_off_mono_dark.png.flat",
@@ -536,12 +536,12 @@
         "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\b33dcbfc758357e22d4376474a339c26\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_focused.9.png"
     },
     {
-        "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\fed3a30f2745d25786849f319f79a450\\res\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
-    },
-    {
         "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_quantum_ic_stop_grey600_36.png.flat",
         "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\f824474c376d6f7cec738c61b3cac161\\res\\drawable-hdpi-v4\\quantum_ic_stop_grey600_36.png"
+    },
+    {
+        "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\fed3a30f2745d25786849f319f79a450\\res\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
         "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_abc_list_selector_holo_dark.xml.flat",
@@ -660,20 +660,20 @@
         "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\b33dcbfc758357e22d4376474a339c26\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_normal.9.png"
     },
     {
-        "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_cast_ic_notification_skip_prev.xml.flat",
-        "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\f824474c376d6f7cec738c61b3cac161\\res\\drawable\\cast_ic_notification_skip_prev.xml"
-    },
-    {
         "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldrtl-xxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\fed3a30f2745d25786849f319f79a450\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_common_plus_signin_btn_text_light_disabled.9.png.flat",
-        "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\b33dcbfc758357e22d4376474a339c26\\res\\drawable-xxhdpi-v4\\common_plus_signin_btn_text_light_disabled.9.png"
+        "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_cast_ic_notification_skip_prev.xml.flat",
+        "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\f824474c376d6f7cec738c61b3cac161\\res\\drawable\\cast_ic_notification_skip_prev.xml"
     },
     {
         "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
         "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\fed3a30f2745d25786849f319f79a450\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_common_plus_signin_btn_text_light_disabled.9.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\b33dcbfc758357e22d4376474a339c26\\res\\drawable-xxhdpi-v4\\common_plus_signin_btn_text_light_disabled.9.png"
     },
     {
         "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_place_autocomplete_progress.xml.flat",
@@ -744,12 +744,12 @@
         "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\f824474c376d6f7cec738c61b3cac161\\res\\drawable-xxxhdpi-v4\\quantum_ic_stop_grey600_48.png"
     },
     {
-        "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
-        "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\fed3a30f2745d25786849f319f79a450\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
-    },
-    {
         "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-tvdpi-v4_common_google_signin_btn_icon_light_normal.9.png.flat",
         "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\b33dcbfc758357e22d4376474a339c26\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\fed3a30f2745d25786849f319f79a450\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
     },
     {
         "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_cast_ic_notification_skip_next.xml.flat",
@@ -784,12 +784,12 @@
         "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\b33dcbfc758357e22d4376474a339c26\\res\\drawable\\common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldrtl-hdpi-v17_abc_ic_ab_back_mtrl_am_alpha.png.flat",
-        "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\abc8d5637d0b5a32638df1b9a383e952\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_ab_back_mtrl_am_alpha.png"
-    },
-    {
         "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_48dp.png.flat",
         "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\fed3a30f2745d25786849f319f79a450\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldrtl-hdpi-v17_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\abc8d5637d0b5a32638df1b9a383e952\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_ab_back_mtrl_am_alpha.png"
     },
     {
         "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-tvdpi-v4_common_google_signin_btn_text_light_pressed.9.png.flat",
@@ -840,12 +840,12 @@
         "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\fed3a30f2745d25786849f319f79a450\\res\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi_ic_cast_light.png.flat",
-        "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-23.0.0.aar\\0668ddc9c5ce8a031fcdf4eca0e24bbf\\res\\drawable-xxhdpi\\ic_cast_light.png"
-    },
-    {
         "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_common_plus_signin_btn_text_dark.xml.flat",
         "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\b33dcbfc758357e22d4376474a339c26\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi_ic_cast_light.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-23.0.0.aar\\0668ddc9c5ce8a031fcdf4eca0e24bbf\\res\\drawable-xxhdpi\\ic_cast_light.png"
     },
     {
         "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21_place_autocomplete_fragment.xml.flat",
@@ -864,12 +864,12 @@
         "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\f824474c376d6f7cec738c61b3cac161\\res\\drawable-xxxhdpi-v4\\quantum_ic_play_arrow_grey600_36.png"
     },
     {
-        "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_powered_by_google_light.png.flat",
-        "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-9.4.0.aar\\7f066f31f0c7d3a5e9628f5b7e086ac9\\res\\drawable-hdpi-v4\\powered_by_google_light.png"
-    },
-    {
         "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi_ic_cast_off_light.png.flat",
         "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-23.0.0.aar\\0668ddc9c5ce8a031fcdf4eca0e24bbf\\res\\drawable-xhdpi\\ic_cast_off_light.png"
+    },
+    {
+        "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_powered_by_google_light.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-9.4.0.aar\\7f066f31f0c7d3a5e9628f5b7e086ac9\\res\\drawable-hdpi-v4\\powered_by_google_light.png"
     },
     {
         "merged": "C:\\distrib_oxana\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_abc_action_bar_up_container.xml.flat",
